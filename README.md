@@ -10,6 +10,8 @@ This repository follows the same ecosystem split that CoreBlow uses to keep rele
 
 ## Repository Role
 
+- Status: Preview / Prototype Contract
+
 - Phase: 5
 - Priority: distribution
 - Kind: nix-tools
