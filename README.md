@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been consolidated into [coreblow/nix-coreblow](https://github.com/coreblow/nix-coreblow) and archived.
+
 # Nix CoreBlow Tools
 
 Nix tools for CoreBlow.
